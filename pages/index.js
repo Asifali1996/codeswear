@@ -12,9 +12,9 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>
+      {/* <div>
         <Image src="/home2.jpg" alt="" width={1600} height={500} />
-      </div>
+      </div> */}
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
